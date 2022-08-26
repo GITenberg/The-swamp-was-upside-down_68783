@@ -1,0 +1,32 @@
+_repo: The-swamp-was-upside-down_68783
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Fitzgerald, William
+    - Jenkins, William Fitzgerald
+    - Jenkins, Will
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: https://en.wikipedia.org/wiki/Murray_Leinster
+description: ''
+gutenberg_issued: '2022-08-18'
+identifiers:
+  gutenberg: '68783'
+language: en
+pgterms:marc905: 20220610171339leinster
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Street & Smith Publications, Inc.,1956.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The swamp was upside down
+url: http://www.gutenberg.org/ebooks/68783
